@@ -1,0 +1,9 @@
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\bin\Debug\Sistem Laporan Penjualan.exe.config
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\bin\Debug\Sistem Laporan Penjualan.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\bin\Debug\Sistem Laporan Penjualan.pdb
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem Laporan Penjualan.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem_Laporan_Penjualan.Form_Login.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem_Laporan_Penjualan.Properties.Resources.resources
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem Laporan Penjualan.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem Laporan Penjualan.exe
+D:\Kuliah\Semester 7\Proyek Perangkat Lunak\Sistem Laporan Penjualan\Sistem Laporan Penjualan\obj\Debug\Sistem Laporan Penjualan.pdb
